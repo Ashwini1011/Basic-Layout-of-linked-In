@@ -11,7 +11,7 @@ This is basic layout of linked In.
 - Recent-information and advertisement section should be stick to top once its reaced top.
 
 
-## Design Outlet of LinkedIn
+## Design Outline of LinkedIn
 
 ![App Screenshot](https://github.com/Ashwini1011/Basic-Layout-of-linked-In/blob/master/LinkedIn.png)
 
